@@ -61,9 +61,10 @@ Practica-2/Página 1 — Resumen ejecutivo.png
 
 Página 2 — Análisis de audio.png
 
-**Página 3 — Comparativa Spotify vs YouTube**
+[**Página 3 — Comparativa Spotify vs YouTube**]
 
-images/pagina1_resumen.png
+(Página 3 — Comparativa Spotify vs YouTube.png)
+
 ## Insights principales
 
 Con base en el análisis, a continuación se detallaran los principales hallazgos con base en el dashboard interactivo. Estos resultados permiten comprender de mejor manera las relaciones y pratrones identificados entre el desempeño de las canciones, sus características de audio y su popularidad en las plataformas analizadas (YouTube y Spotify):
