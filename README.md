@@ -55,7 +55,7 @@ En este dataset contiene estadísticas del Top 10 de canciones de distintos arti
 
 ![**Pagina 1 - Resumen ejecutivo**](Pagina1-Resumen_ejecutivo.png).
 
-![**Pagina 2 - Análisis de audio**](Página 2 — Análisis de audio.png)
+![**Pagina 2 - Análisis de audio**](Pagina2-Análisis_audio.png)
 
 ![**Página 3 — Comparativa Spotify vs YouTube**](Página 3 — Comparativa Spotify vs YouTube.png)
 
