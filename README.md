@@ -55,7 +55,7 @@ En este dataset contiene estadísticas del Top 10 de canciones de distintos arti
 
 **Pagina 1 - Resumen ejecutivo**
 
-Página 1_Resumen ejecutivo.png
+Página 1 — Resumen ejecutivo.png
 
 **Pagina 2 - Análisis de audio**
 
