@@ -59,7 +59,7 @@ Practica-2/Página 1 — Resumen ejecutivo.png
 
 **Pagina 2 - Análisis de audio**
 
-images/pagina1_resumen.png
+Página 2 — Análisis de audio.png
 
 **Página 3 — Comparativa Spotify vs YouTube**
 
