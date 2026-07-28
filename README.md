@@ -63,7 +63,7 @@ Página 2 — Análisis de audio.png
 
 [**Página 3 — Comparativa Spotify vs YouTube**]
 
-(Página 3 — Comparativa Spotify vs YouTube.png)
+(assets/Practica-2/Página 3 — Comparativa Spotify vs YouTube.png)
 
 ## Insights principales
 
